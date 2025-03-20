@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhharak&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhharak" /> </p>
 
-- 🔭 I’m currently working on ** AI-driven media monitoring system**
+- 🔭 I’m currently working on **AI-driven media monitoring system**
 - 🌱 I’m currently learning **Advanced Generative AI, LLM Fine-Tuning, RAG, and Prompt Engineering**
 - 👯 I’m looking to collaborate on **LLM-based AI Assistants and Generative AI Applications**
 - 💬 Ask me about **LLMs, AI/ML, Vector Search, Pipelines and NLP**
