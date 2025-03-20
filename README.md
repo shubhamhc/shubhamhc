@@ -28,7 +28,7 @@
 </p>
 
 <h3 align="left">Projects:</h3>
-- **Intelligent Document Query Bot for Microsoft Teams**  
+**Intelligent Document Query Bot for Microsoft Teams**  
   - Built using Azure OpenAI’s Turbo 3.5/4, Llama3, VectorDB  
   - Developed with FastAPI, LangChain, and Azure Bot Services  
 
