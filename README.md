@@ -48,6 +48,3 @@
   - Developed LangChain agents to automate and enhance customer support  
   - Integrated with an e-commerce platform for dynamic user interactions  
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saurabhharak&show_icons=true&locale=en&layout=compact" alt="saurabhharak" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhharak&" alt="saurabhharak" /></p>
